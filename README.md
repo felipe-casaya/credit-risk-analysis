@@ -29,6 +29,8 @@ Python, Pandas, NumPy, Scikit-Learn, Matplotlib
 ## Efoque de negocio
 En riesgo crediticio, no basta con maximizar la accuracy. El modelo fue optimizado priorizando la reducción de falsos negativos, dado que aprobar un cliente moroso genera mayor impacto financiero que rechazar un cliente solvente.
 ## Conclusiones
+El proyecto demuestra la aplicación práctica de técnicas de machine learning en un contexto financiero real, integrando limpieza de datos, modelado predictivo y análisis estratégico de métricas para la toma de decisiones.
+## Posibles mejoras futuras
   - Comparación con modelos adicionales (Random Forest, Gradient Boosting).
   - Optimización de umbral de clasificación.
   - Implementación de validación cruzada.
